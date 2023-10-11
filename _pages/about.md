@@ -19,4 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-aaaa
+I am an undergraduate student pursuing dual degrees in Economics and Psychology at [Peking University](https://www.pku.edu.cn). My research interests lie in moral judgment and economic decision-making. Currently, my projects focus on the occurrence of prosocial and irrational behaviors, as well as group-based moral judgments. I employ a variety of methods to explore the questions of interest, including behavioral experiments, social surveys, and cognitive modeling. professor [Lusha Zhu](https://www.lushazhu.com) and assistant professor [Phyliss Gai Jia](http://www.phylissgai.com). 

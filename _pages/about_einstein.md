@@ -1,2 +1,5 @@
-I am an undergraduate student pursuing dual degrees in Economics and Psychology at [Peking University](https://www.pku.edu.cn). My research interests lie in moral judgment and economic decision-making. Currently, my projects focus on the occurrence of prosocial and irrational behaviors, as well as group-based moral judgments. I employ a variety of methods to explore the questions of interest, including behavioral experiments, social surveys, and cognitive modeling. professor [Lusha Zhu](https://www.lushazhu.com) and assistant professor [Phyliss Gai Jia](http://www.phylissgai.com). 
-aaa
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

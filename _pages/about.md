@@ -9,7 +9,7 @@ profile:
   image: IMG_2907.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5 Yiheyuan Rd, Haidian District</p>
+    <p>5 Yiheyuan Rd, Haidian</p>
     <p>Beijing, China</p>
 
 news: true  # includes a list of news items

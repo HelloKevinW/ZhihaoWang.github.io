@@ -6,7 +6,7 @@ subtitle: Yuanpei College, Peking University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_2907.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>5 Yiheyuan Rd, Haidian District</p>

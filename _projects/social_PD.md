@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Behavioral Game Theory in Social Network
 description: Why we cooperate with others?
 img: assets/img/12.jpg
 importance: 1

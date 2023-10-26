@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Behavioral Game Theory in Social Network
+title: Prisoner's Dilemma in Social Network
 description: Why we cooperate with others?
-img: assets/img/12.jpg
+img: assets/img/draw.png
 importance: 1
 category: Behavioral
 related_publications: 

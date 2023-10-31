@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I work as TA.
 nav: true
 nav_order: 5
 ---
@@ -10,5 +10,12 @@ nav_order: 5
 Principle of Macroeconomics Economics (Discussion Session)
 
 - 2023 Spring
-- Teaching for freshmen (two hours per week).
+- Teaching for freshmen (two hours per week)
 - Supervisors: Bo Li
+
+  Principle of Macroeconomics Economics (Exercise and Discussion)
+
+- 2023 Winter
+- Teaching for senior high student
+- Supervisors: Guanghua School of management
+

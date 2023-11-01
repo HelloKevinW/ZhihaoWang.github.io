@@ -23,3 +23,5 @@ I am an undergraduate student pursuing dual degrees in Economics and Psychology 
 Outside of school, I like tennis and billiards. I like to read books on political philosophy and ethics, and the ancients always make me feel the shock of human thought.
 
 Professor [Lusha Zhu](https://www.lushazhu.com) and assistant professor [Phyliss Gai Jia](http://www.phylissgai.com) directed my research. 
+
+My CV here: [CV](https://www.dropbox.com/scl/fi/xytg3dr4ye53y658s33vq/Zhihao_Wang_CV.pdf?rlkey=aunx0zrsk6j44fwva7p9y6g91&dl=0)

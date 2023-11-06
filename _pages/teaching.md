@@ -13,7 +13,7 @@ Principle of Macroeconomics Economics (Discussion Session)
 - Teaching for freshmen (two hours per week)
 - Supervisors: Bo Li
 
-  Principle of Macroeconomics Economics (Exercise and Discussion)
+Social Psychology (Exercise and Discussion)
 
 - 2023 Winter
 - Teaching for senior high student
